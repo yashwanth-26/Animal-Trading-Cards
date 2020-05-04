@@ -6,9 +6,13 @@ body{
 	margin: auto;
 	margin-top: 50px;
 }
+
+
 ul{
 	padding: 0;
 }
+
+
 li{
 	list-style: none;
 	margin: 0;
@@ -29,6 +33,8 @@ img{
 div{
 	padding:1%;
 }
+
+
 .borders{
 	border: 1px dashed black;
 	box-shadow: 2px 5px #1D9895;
