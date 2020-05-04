@@ -1,5 +1,5 @@
-# Animal Play Cards
+# Animal Trading Cards
 
-My clown fish play card :)
+My clown fish trade card :)
 
 ![clownfish](preview.png).
